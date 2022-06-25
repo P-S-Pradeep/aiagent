@@ -1,4 +1,4 @@
-### EXP NO:07
+### EXP NO:01
 ### DATE:04/04/2022
 
 # <p align='center'>Developing AI Agent with PEAS Description
@@ -32,6 +32,10 @@ Implementing the AI agent
 Measure the performance parameters
 
 ## PROGRAM
+```
+Developed By: Pradeep P S
+Reg. No: 212220230034
+```
 ```python
 import random
 
